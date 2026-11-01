@@ -1,0 +1,259 @@
+[
+ {
+  "id": 2374801593,
+  "date_posted": "2026-09-21T00:00:00",
+  "date_created": "2026-09-21T21:56:07.331979",
+  "title": "Lead, Electrical Engineer",
+  "organization": "Example Avionics",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "Bengaluru",
+     "addressRegion": null,
+     "addressCountry": null,
+     "postalCode": null
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": [
+   "Full Time Reg | F"
+  ],
+  "url": "https://jobs.lever.co/exampleavionics/ad8d11ec-1e52-4a1f-a057-829f725f06b1",
+  "source_type": "ats",
+  "source": "lever.co",
+  "source_domain": "jobs.lever.co",
+  "source_slug": null,
+  "organization_logo": "https://www.example.com/exampleavionics/logo.png",
+  "cities_derived": [
+   "Bengaluru"
+  ],
+  "counties_derived": [
+   "Bangalore North"
+  ],
+  "regions_derived": [
+   "Karnataka"
+  ],
+  "countries_derived": [
+   "India"
+  ],
+  "locations_derived": [
+   "Bengaluru, Karnataka, India"
+  ],
+  "timezones_derived": [
+   "Asia/Kolkata"
+  ],
+  "lats_derived": [
+   12.9767936
+  ],
+  "lngs_derived": [
+   77.590082
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "exampleavionics",
+  "ai_salary_currency": null,
+  "ai_salary_value": null,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": null,
+  "ai_benefits": null,
+  "ai_experience_level": "10+",
+  "ai_work_arrangement": "On-site",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+   "Electrical engineering",
+   "Avionics",
+   "RF design",
+   "Circuit design",
+   "TCAS",
+   "Transponder radios",
+   "Altium",
+   "Python",
+   "C++",
+   "DO-160",
+   "DO-178",
+   "DO-254",
+   "Systems engineering",
+   "Hardware design",
+   "Firmware development",
+   "Model-based systems engineering"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Lead, Electrical Engineer carries out the day-to-day work of the role at Example Avionics.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "Electrical Engineering",
+   "Avionics",
+   "Surveillance",
+   "TCAS",
+   "Transponders",
+   "RF Design",
+   "Altium",
+   "Python",
+   "C++",
+   "DO-160",
+   "DO-178",
+   "DO-254",
+   "Systems Engineering",
+   "Hardware Design",
+   "Firmware",
+   "Model-Based Systems Engineering",
+   "RTOS",
+   "L-band",
+   "Urban Air Mobility",
+   "eVTOL",
+   "Digital Circuitry",
+   "Analog Circuitry",
+   "Power Distribution",
+   "Requirements Definition",
+   "Design Reviews",
+   "Integration",
+   "Certification",
+   "Lean Practices",
+   "Value Engineering",
+   "Automation"
+  ],
+  "ai_taxonomies_a": [
+   "Engineering",
+   "Technology",
+   "Manufacturing"
+  ],
+  "ai_education": [
+   "bachelor degree",
+   "postgraduate degree"
+  ]
+ },
+ {
+  "id": 2374801596,
+  "date_posted": "2026-09-21T00:00:00",
+  "date_created": "2026-09-21T21:56:07.447985",
+  "title": "Physical Therapist/Physical Therapist Assistant - Telehealth MSK Care",
+  "organization": "Example Telehealth",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "Livermore, CA",
+     "addressRegion": null,
+     "addressCountry": null,
+     "postalCode": null
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": [
+   "Part-Time"
+  ],
+  "url": "https://jobs.lever.co/exampletelehealth/30b0fd5d-96e9-416e-bcfa-75f328cc80e3",
+  "source_type": "ats",
+  "source": "lever.co",
+  "source_domain": "jobs.lever.co",
+  "source_slug": null,
+  "organization_logo": "https://www.example.com/exampletelehealth/logo.png",
+  "cities_derived": [
+   "Livermore"
+  ],
+  "counties_derived": [
+   "Alameda County"
+  ],
+  "regions_derived": [
+   "California"
+  ],
+  "countries_derived": [
+   "United States"
+  ],
+  "locations_derived": [
+   "Livermore, California, United States"
+  ],
+  "timezones_derived": [
+   "America/Los_Angeles"
+  ],
+  "lats_derived": [
+   37.6820583
+  ],
+  "lngs_derived": [
+   -121.768053
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "exampletelehealth",
+  "ai_salary_currency": null,
+  "ai_salary_value": null,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": null,
+  "ai_benefits": [
+   "Flexible work schedule",
+   "Home-based work",
+   "Additional income opportunities"
+  ],
+  "ai_experience_level": "2-5",
+  "ai_work_arrangement": "Remote Solely",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": [
+   "United States"
+  ],
+  "ai_remote_location_derived": [
+   "United States"
+  ],
+  "ai_key_skills": [
+   "Physical Therapy",
+   "Telehealth",
+   "Musculoskeletal Care",
+   "Patient Assessment",
+   "Treatment Planning",
+   "Virtual Consultations"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Physical Therapist/Physical Therapist Assistant - Telehealth MSK Care carries out the day-to-day work of the role at Example Telehealth.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "PART_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "Physical Therapist",
+   "Physical Therapist Assistant",
+   "Telehealth",
+   "Musculoskeletal Care",
+   "MSK",
+   "Patient-centered care",
+   "Virtual consultations",
+   "Treatment plans",
+   "Recovery",
+   "Liability insurance",
+   "Remote work",
+   "Healthcare"
+  ],
+  "ai_taxonomies_a": [
+   "Healthcare"
+  ],
+  "ai_education": [
+   "professional certificate"
+  ]
+ }
+]

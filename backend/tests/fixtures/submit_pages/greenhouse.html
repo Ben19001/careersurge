@@ -1,0 +1,15 @@
+<!-- Greenhouse: names its own submit button, so rung 1 of the ladder resolves it. The page also
+     carries a second form (job alerts) whose button must never be mistaken for the application's. -->
+<div id="app_body">
+  <form id="application_form">
+    <label for="first_name">First Name</label>
+    <input id="first_name" name="first_name" data-cs-field="first_name">
+    <label for="email">Email</label>
+    <input id="email" name="email" data-cs-field="email">
+    <input type="submit" id="submit_app" value="Submit Application">
+  </form>
+</div>
+<form id="alerts">
+  <input id="alert_email" name="alert_email">
+  <button type="submit">Subscribe</button>
+</form>

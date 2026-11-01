@@ -1,0 +1,273 @@
+[
+ {
+  "id": 2374724315,
+  "date_posted": "2026-09-21T00:00:00",
+  "date_created": "2026-09-21T21:23:31.741287",
+  "title": "Account Executive",
+  "organization": "Example Remodeling",
+  "organization_url": "https://www.example.com/",
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "United States",
+     "addressCountry": "United States"
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": "TELECOMMUTE",
+  "location_requirements": [
+   {
+    "@type": "Country",
+    "name": "United States"
+   }
+  ],
+  "salary": {
+   "@type": "MonetaryAmount",
+   "currency": "USD",
+   "value": {
+    "@type": "QuantitativeValue",
+    "minValue": 100000,
+    "maxValue": 100000,
+    "unitText": "YEAR"
+   }
+  },
+  "employment_type": [
+   "FULL_TIME"
+  ],
+  "url": "https://jobs.ashbyhq.com/exampleremodeling/3aa4c9d4-4c92-4ad9-99bd-1a38ecc08ad2",
+  "source_type": "ats",
+  "source": "ashby",
+  "source_domain": "jobs.ashbyhq.com",
+  "source_slug": null,
+  "organization_logo": "https://www.example.com/exampleremodeling/logo.png",
+  "cities_derived": null,
+  "counties_derived": null,
+  "regions_derived": null,
+  "countries_derived": [
+   "United States"
+  ],
+  "locations_derived": [
+   "United States"
+  ],
+  "timezones_derived": [
+   "America/Chicago"
+  ],
+  "lats_derived": [
+   39.7837304
+  ],
+  "lngs_derived": [
+   -100.445882
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "exampleremodeling",
+  "ai_salary_currency": "USD",
+  "ai_salary_value": 100000,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": "YEAR",
+  "ai_benefits": [
+   "Health insurance",
+   "Remote work",
+   "Weekly team game nights",
+   "Company retreats"
+  ],
+  "ai_experience_level": "2-5",
+  "ai_work_arrangement": "Remote Solely",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": [
+   "United States"
+  ],
+  "ai_remote_location_derived": [
+   "United States"
+  ],
+  "ai_key_skills": [
+   "Outbound sales",
+   "Strategic partnerships",
+   "Account-based marketing",
+   "Account management",
+   "Lead generation",
+   "CRM management",
+   "Discovery calls",
+   "Prospecting",
+   "Communication skills",
+   "Relationship building",
+   "Sales pipeline management",
+   "Strategic planning"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Account Executive carries out the day-to-day work of the role at Example Remodeling.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "Account Executive",
+   "Outbound Sales",
+   "Account-Based Marketing",
+   "CRM",
+   "Lead Generation",
+   "Home Improvement Industry",
+   "Strategic Partnerships",
+   "Sales Pipeline",
+   "Discovery Calls",
+   "Prospecting",
+   "Revenue-sharing",
+   "B2B Sales",
+   "Client Acquisition",
+   "Remote Work",
+   "Sales Metrics"
+  ],
+  "ai_taxonomies_a": [
+   "Sales",
+   "Marketing",
+   "Consulting"
+  ],
+  "ai_education": null
+ },
+ {
+  "id": 2374724277,
+  "date_posted": "2026-09-21T00:00:00",
+  "date_created": "2026-09-21T21:23:30.6536",
+  "title": "Operations & Facilities Specialist",
+  "organization": "Example Insights",
+  "organization_url": "https://www.example.com/",
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "Santa Clara",
+     "addressRegion": "California",
+     "addressCountry": "United States"
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": [
+   "FULL_TIME"
+  ],
+  "url": "https://jobs.ashbyhq.com/exampleinsights/99b8cce5-7dc5-4afb-a458-8fd351b3db9d",
+  "source_type": "ats",
+  "source": "ashby",
+  "source_domain": "jobs.ashbyhq.com",
+  "source_slug": null,
+  "organization_logo": "https://www.example.com/exampleinsights/logo.png",
+  "cities_derived": [
+   "Santa Clara"
+  ],
+  "counties_derived": [
+   "Santa Clara County"
+  ],
+  "regions_derived": [
+   "California"
+  ],
+  "countries_derived": [
+   "United States"
+  ],
+  "locations_derived": [
+   "Santa Clara, California, United States"
+  ],
+  "timezones_derived": [
+   "America/Los_Angeles"
+  ],
+  "lats_derived": [
+   37.3541132
+  ],
+  "lngs_derived": [
+   -121.955174
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "exampleinsights",
+  "ai_salary_currency": null,
+  "ai_salary_value": null,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": null,
+  "ai_benefits": [
+   "Health insurance",
+   "Vision care",
+   "Dental coverage",
+   "401(k)",
+   "Paid holidays",
+   "PTO (Paid Time Off)",
+   "Sick leave"
+  ],
+  "ai_experience_level": "0-2",
+  "ai_work_arrangement": "On-site",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+   "Hardware troubleshooting",
+   "Equipment maintenance",
+   "Technical support",
+   "Facilities management",
+   "Computer hardware",
+   "Mechanical systems",
+   "Electrical systems",
+   "Prototyping",
+   "Data collection",
+   "Furniture assembly",
+   "Vendor coordination",
+   "Logistics",
+   "Problem solving",
+   "Communication skills",
+   "Organizational skills",
+   "Startup operations"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Operations & Facilities Specialist carries out the day-to-day work of the role at Example Insights.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "Engineering",
+   "Hardware",
+   "Facilities",
+   "Operations",
+   "Troubleshooting",
+   "Technical support",
+   "Startup",
+   "Mechanical",
+   "Electrical",
+   "Robotics",
+   "Manufacturing",
+   "Field engineering",
+   "Prototyping",
+   "Networking",
+   "Electronics",
+   "Logistics",
+   "Workstation setup",
+   "Vendor management",
+   "Data collection",
+   "Infrastructure"
+  ],
+  "ai_taxonomies_a": [
+   "Engineering",
+   "Technology",
+   "Administrative",
+   "Manufacturing",
+   "Logistics"
+  ],
+  "ai_education": [
+   "bachelor degree"
+  ]
+ }
+]

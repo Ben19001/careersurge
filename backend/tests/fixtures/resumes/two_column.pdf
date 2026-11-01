@@ -1,0 +1,124 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 8 0 R /MediaBox [ 0 0 612 792 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
+endobj
+6 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20261010210814+02'00') /Creator (anonymous) /Keywords () /ModDate (D:20261010210814+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Length 1784
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 22 Tf 26.4 TL ET
+BT 1 0 0 1 54 732 Tm (Marcus Lee) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 714 Tm (marcus.lee@example.com | 415-555-0199 | Seattle, WA) Tj T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 54 642 Tm (SKILLS) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 626 Tm (Python) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 613 Tm (Rust) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 600 Tm (React) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 587 Tm (GraphQL) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 574 Tm (AWS) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 561 Tm (Distributed Systems Design) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 548 Tm (Cloud Infrastructure) Tj T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 54 523 Tm (EDUCATION) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 54 507 Tm (Oregon State University) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 494 Tm (B.S. Computer Science) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 481 Tm (2012 - 2016) Tj T* ET
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 230 642 Tm (EXPERIENCE) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 230 626 Tm (Staff Engineer) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 230 613 Tm (Gamma Labs, Seattle, WA) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 230 600 Tm (Mar 2020 - Present) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 240 587 Tm (- Led the platform migration to Kubernetes.) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 240 574 Tm (- Mentored six engineers.) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 230 555 Tm (Developer) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 230 542 Tm (Delta Systems) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 230 529 Tm (2016 - 2020) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 240 516 Tm (- Maintained the customer dashboard.) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000582 00000 n 
+0000000843 00000 n 
+0000000902 00000 n 
+trailer
+<<
+/ID 
+[<433cfb72f2d8227a30029931bd5dd3ae><433cfb72f2d8227a30029931bd5dd3ae>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
+startxref
+2737
+%%EOF

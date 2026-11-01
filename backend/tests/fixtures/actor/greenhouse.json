@@ -1,0 +1,744 @@
+[
+ {
+  "id": 2374663171,
+  "date_posted": "2026-09-21T20:40:16",
+  "date_created": "2026-09-21T20:56:30.258048",
+  "title": "Early Career - Family Medicine Physician",
+  "organization": "Example Health",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Cleveland, OH"
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": null,
+  "url": "https://www.example.com/careers/all-departments/8181403?gh_jid=8181403",
+  "source_type": "ats",
+  "source": "greenhouse",
+  "source_domain": "www.example.com",
+  "source_slug": "examplehealth",
+  "organization_logo": null,
+  "cities_derived": [
+   "Cleveland"
+  ],
+  "counties_derived": [
+   "Cuyahoga County"
+  ],
+  "regions_derived": [
+   "Ohio"
+  ],
+  "countries_derived": [
+   "United States"
+  ],
+  "locations_derived": [
+   "Cleveland, Ohio, United States"
+  ],
+  "timezones_derived": [
+   "America/New_York"
+  ],
+  "lats_derived": [
+   41.4996574
+  ],
+  "lngs_derived": [
+   -81.6936772
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "examplehealth",
+  "ai_salary_currency": "USD",
+  "ai_salary_value": null,
+  "ai_salary_min_value": 154300,
+  "ai_salary_max_value": 243000,
+  "ai_salary_unit_text": "YEAR",
+  "ai_benefits": [
+   "Paid sabbatical",
+   "Free health memberships",
+   "Employee Assistance Program",
+   "Medical insurance",
+   "Dental insurance",
+   "Vision insurance",
+   "Pre-tax commuter benefits",
+   "PTO cash outs",
+   "401K match",
+   "Emergency childcare credit",
+   "Paid maternity leave",
+   "Paid paternity leave",
+   "Life insurance",
+   "Disability insurance",
+   "Malpractice insurance",
+   "UpToDate subscription",
+   "Continuing Medical Education stipend"
+  ],
+  "ai_experience_level": "0-2",
+  "ai_work_arrangement": "On-site",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+   "Family medicine",
+   "Primary care",
+   "Patient care",
+   "Chronic care management",
+   "Preventive care",
+   "Mental health",
+   "Clinical rounds",
+   "Tele-health",
+   "In-office procedures",
+   "Team collaboration",
+   "Evidence-based medicine",
+   "Technology utilization",
+   "Communication",
+   "Leadership development"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Early Career - Family Medicine Physician carries out the day-to-day work of the role at Example Health.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "Family Medicine",
+   "Primary Care",
+   "Physician",
+   "Residency",
+   "Fellowship",
+   "Board Eligible",
+   "Clinical Rounds",
+   "Tele-health",
+   "Chronic Care Management",
+   "Preventive Care",
+   "In-office Procedures",
+   "Evidence-based Medicine",
+   "Healthcare",
+   "Patient Panel",
+   "Mentoring",
+   "Continuing Medical Education",
+   "Malpractice Insurance",
+   "E-Verify",
+   "Internal Medicine",
+   "Pediatrics"
+  ],
+  "ai_taxonomies_a": [
+   "Healthcare",
+   "Management & Leadership"
+  ],
+  "ai_education": [
+   "postgraduate degree"
+  ]
+ },
+ {
+  "id": 2374657283,
+  "date_posted": "2026-09-21T20:38:42",
+  "date_created": "2026-09-21T20:46:37.96351",
+  "title": "Retail Sales Associate",
+  "organization": "Example Apparel",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Brooklyn, New York, United States"
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": null,
+  "url": "https://job-boards.greenhouse.io/exampleapparel/jobs/4558921007",
+  "source_type": "ats",
+  "source": "greenhouse",
+  "source_domain": "job-boards.greenhouse.io",
+  "source_slug": "exampleapparel",
+  "organization_logo": null,
+  "cities_derived": [
+   "New York"
+  ],
+  "counties_derived": [
+   "Kings County"
+  ],
+  "regions_derived": [
+   "New York"
+  ],
+  "countries_derived": [
+   "United States"
+  ],
+  "locations_derived": [
+   "New York, New York, United States"
+  ],
+  "timezones_derived": [
+   "America/New_York"
+  ],
+  "lats_derived": [
+   40.6526006
+  ],
+  "lngs_derived": [
+   -73.9497211
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "example-apparel",
+  "ai_salary_currency": "USD",
+  "ai_salary_value": null,
+  "ai_salary_min_value": 18,
+  "ai_salary_max_value": 23,
+  "ai_salary_unit_text": "HOUR",
+  "ai_benefits": [
+   "Medical",
+   "Dental",
+   "Vision",
+   "Paid Time Off",
+   "Pet insurance",
+   "401K",
+   "Employee Assistance Program",
+   "Monthly clothing allowance",
+   "Employee discount",
+   "Friends and family discount",
+   "Free fitness classes",
+   "Discount on Dreamland events",
+   "Travel opportunities"
+  ],
+  "ai_experience_level": "0-2",
+  "ai_work_arrangement": "On-site",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+   "Customer service",
+   "Sales",
+   "Product knowledge",
+   "POS system operation",
+   "Upselling",
+   "Cross-selling",
+   "Inventory management",
+   "Communication",
+   "Organizational skills",
+   "Attention to detail",
+   "Problem-solving",
+   "Social media assistance",
+   "Cash handling",
+   "Teamwork"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Retail Sales Associate carries out the day-to-day work of the role at Example Apparel.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "FULL_TIME",
+   "PART_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "Retail",
+   "Sales Associate",
+   "Customer Experience",
+   "POS System",
+   "Inventory Management",
+   "Merchandising",
+   "Upselling",
+   "Cross-selling",
+   "Social Media",
+   "Customer Service",
+   "Product Knowledge",
+   "Brooklyn",
+   "Example Apparel",
+   "Retail Operations",
+   "Cash Handling",
+   "Omni-channel"
+  ],
+  "ai_taxonomies_a": [
+   "Retail",
+   "Customer Service & Support",
+   "Sales"
+  ],
+  "ai_education": null
+ },
+ {
+  "id": 2374646111,
+  "date_posted": "2026-09-21T20:36:21",
+  "date_created": "2026-09-21T20:38:17.567628",
+  "title": "Universal Banker Floater - Palos Heights",
+  "organization": "Example Community Bank",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Chicago, Illinois, United States"
+    }
+   },
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Evergreen Park, Illinois, United States"
+    }
+   },
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Flossmoor, Illinois, United States"
+    }
+   },
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Frankfort, Illinois, United States"
+    }
+   },
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Palos Heights, Illinois, United States"
+    }
+   },
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "South Holland, Illinois, United States"
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": null,
+  "url": "https://www.example.com/resources-services/current-opportunities?gh_jid=8001342003",
+  "source_type": "ats",
+  "source": "greenhouse",
+  "source_domain": "www.example.com",
+  "source_slug": "examplebank",
+  "organization_logo": null,
+  "cities_derived": [
+   "South Holland",
+   "Flossmoor",
+   "Chicago",
+   "Evergreen Park",
+   "Palos Heights",
+   "Frankfort"
+  ],
+  "counties_derived": [
+   "Cook County",
+   "Cook County",
+   "Cook County",
+   "Cook County",
+   "Cook County",
+   "Will County"
+  ],
+  "regions_derived": [
+   "Illinois",
+   "Illinois",
+   "Illinois",
+   "Illinois",
+   "Illinois",
+   "Illinois"
+  ],
+  "countries_derived": [
+   "United States",
+   "United States",
+   "United States",
+   "United States",
+   "United States",
+   "United States"
+  ],
+  "locations_derived": [
+   "Chicago, Illinois, United States",
+   "Evergreen Park, Illinois, United States",
+   "Flossmoor, Illinois, United States",
+   "Frankfort, Illinois, United States",
+   "Palos Heights, Illinois, United States",
+   "South Holland, Illinois, United States"
+  ],
+  "timezones_derived": [
+   "America/Chicago",
+   "America/Chicago",
+   "America/Chicago",
+   "America/Chicago",
+   "America/Chicago",
+   "America/Chicago"
+  ],
+  "lats_derived": [
+   41.6008681,
+   41.5428123,
+   41.8755616,
+   41.720136,
+   41.6681632,
+   41.4979467
+  ],
+  "lngs_derived": [
+   -87.6069894,
+   -87.6847684,
+   -87.6244212,
+   -87.7013258,
+   -87.7962812,
+   -87.8495946
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "examplebank",
+  "ai_salary_currency": "USD",
+  "ai_salary_value": null,
+  "ai_salary_min_value": 18.1,
+  "ai_salary_max_value": 22.5,
+  "ai_salary_unit_text": "HOUR",
+  "ai_benefits": [
+   "Retail Incentive Plan"
+  ],
+  "ai_experience_level": "0-2",
+  "ai_work_arrangement": "On-site",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+   "Customer Service",
+   "Sales",
+   "Cash Handling",
+   "Account Maintenance",
+   "Banking Operations",
+   "Cross-selling",
+   "Communication",
+   "Math Proficiency",
+   "Computer Proficiency",
+   "Compliance",
+   "Relationship Building",
+   "Teller Operations",
+   "Problem Solving",
+   "Organization",
+   "Multi-tasking"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Universal Banker Floater - Palos Heights carries out the day-to-day work of the role at Example Community Bank.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "Universal Banker",
+   "Banking",
+   "Customer Service",
+   "Sales",
+   "Cash Handling",
+   "NMLS",
+   "Account Management",
+   "Teller",
+   "Compliance",
+   "Retail Banking",
+   "Financial Services",
+   "Operations",
+   "Cross-selling",
+   "Relationship Management",
+   "Branch Banking"
+  ],
+  "ai_taxonomies_a": [
+   "Finance & Accounting",
+   "Customer Service & Support",
+   "Retail",
+   "Sales",
+   "Administrative"
+  ],
+  "ai_education": [
+   "high school",
+   "associate degree",
+   "bachelor degree"
+  ]
+ },
+ {
+  "id": 2374631303,
+  "date_posted": "2026-09-21T20:27:12",
+  "date_created": "2026-09-21T20:28:23.718082",
+  "title": "Center-Based Board Certified Behavior Analyst",
+  "organization": "Example Therapy Services",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Tucson, Arizona, United States"
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": null,
+  "url": "https://job-boards.greenhouse.io/exampletherapy/jobs/8828084002",
+  "source_type": "ats",
+  "source": "greenhouse",
+  "source_domain": "job-boards.greenhouse.io",
+  "source_slug": "exampletherapy",
+  "organization_logo": null,
+  "cities_derived": [
+   "Tucson"
+  ],
+  "counties_derived": [
+   "Pima County"
+  ],
+  "regions_derived": [
+   "Arizona"
+  ],
+  "countries_derived": [
+   "United States"
+  ],
+  "locations_derived": [
+   "Tucson, Arizona, United States"
+  ],
+  "timezones_derived": [
+   "America/Phoenix"
+  ],
+  "lats_derived": [
+   32.2228765
+  ],
+  "lngs_derived": [
+   -110.974847
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "example-therapy",
+  "ai_salary_currency": "USD",
+  "ai_salary_value": 105000,
+  "ai_salary_min_value": null,
+  "ai_salary_max_value": null,
+  "ai_salary_unit_text": "YEAR",
+  "ai_benefits": [
+   "Signing bonus",
+   "Monthly and weekly bonus structure",
+   "CEU stipends",
+   "Paid CEU days",
+   "Annual all-inclusive vacation for two",
+   "Early wage access",
+   "Company car",
+   "Mileage reimbursement",
+   "Full benefits"
+  ],
+  "ai_experience_level": "2-5",
+  "ai_work_arrangement": "Remote OK",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": [
+   "Tucson, Arizona, United States"
+  ],
+  "ai_remote_location_derived": [
+   "Tucson, Arizona, United States"
+  ],
+  "ai_key_skills": [
+   "Applied Behavior Analysis",
+   "Telehealth",
+   "Clinical supervision",
+   "Behavior intervention planning",
+   "Practical Functional Assessment",
+   "Skills-Based Treatment",
+   "Assent-based practices",
+   "Data-driven decision making",
+   "Family training",
+   "Mentoring",
+   "Clinical leadership",
+   "Documentation",
+   "Program development"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Center-Based Board Certified Behavior Analyst carries out the day-to-day work of the role at Example Therapy Services.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "FULL_TIME"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "BCBA",
+   "Board Certified Behavior Analyst",
+   "ABA",
+   "Applied Behavior Analysis",
+   "Telehealth",
+   "CareConnect",
+   "Practical Functional Assessment",
+   "Skills-Based Treatment",
+   "Assent-based care",
+   "Clinical oversight",
+   "Behavior technician",
+   "Supervision",
+   "Data-driven decision making",
+   "Clinical excellence",
+   "Behavior plans",
+   "Family training",
+   "Remote work",
+   "Mentoring",
+   "Clinical leadership",
+   "CEU"
+  ],
+  "ai_taxonomies_a": [
+   "Healthcare",
+   "Social Services",
+   "Education"
+  ],
+  "ai_education": [
+   "professional certificate"
+  ]
+ },
+ {
+  "id": 2374659602,
+  "date_posted": "2026-09-21T20:37:19",
+  "date_created": "2026-09-21T20:49:38.600664",
+  "title": "Intern, Investment Analytics Engineering",
+  "organization": "Example Capital Group",
+  "organization_url": null,
+  "date_valid_through": null,
+  "locations": [
+   {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "",
+     "addressLocality": "Toronto, Ontario, Canada"
+    }
+   }
+  ],
+  "locations_alt": null,
+  "location_type": null,
+  "location_requirements": null,
+  "salary": null,
+  "employment_type": null,
+  "url": "https://job-boards.greenhouse.io/examplecapital/jobs/4413204009",
+  "source_type": "ats",
+  "source": "greenhouse",
+  "source_domain": "job-boards.greenhouse.io",
+  "source_slug": "examplecapital",
+  "organization_logo": null,
+  "cities_derived": [
+   "Toronto"
+  ],
+  "counties_derived": [
+   "Golden Horseshoe"
+  ],
+  "regions_derived": [
+   "Ontario"
+  ],
+  "countries_derived": [
+   "Canada"
+  ],
+  "locations_derived": [
+   "Toronto, Ontario, Canada"
+  ],
+  "timezones_derived": [
+   "America/Toronto"
+  ],
+  "lats_derived": [
+   43.6534817
+  ],
+  "lngs_derived": [
+   -79.3839347
+  ],
+  "domain_derived": "example.com",
+  "org_linkedin_slug": "example-capital",
+  "ai_salary_currency": "CAD",
+  "ai_salary_value": null,
+  "ai_salary_min_value": 55000,
+  "ai_salary_max_value": 65000,
+  "ai_salary_unit_text": "YEAR",
+  "ai_benefits": [
+   "Annual performance bonus"
+  ],
+  "ai_experience_level": "0-2",
+  "ai_work_arrangement": "Hybrid",
+  "ai_work_arrangement_office_days": null,
+  "ai_remote_location": null,
+  "ai_remote_location_derived": null,
+  "ai_key_skills": [
+   "Financial analytics",
+   "Data science",
+   "Python",
+   "R",
+   "SQL",
+   "PowerBI",
+   "Investment analytics",
+   "Data engineering",
+   "Financial modeling",
+   "Anomaly detection",
+   "Natural-language processing",
+   "Business intelligence",
+   "Data visualization",
+   "Risk management",
+   "Performance attribution"
+  ],
+  "ai_hiring_manager_name": null,
+  "ai_hiring_manager_email_address": null,
+  "ai_core_responsibilities": "Synthetic test listing. The Intern, Investment Analytics Engineering carries out the day-to-day work of the role at Example Capital Group.",
+  "ai_requirements_summary": "Synthetic test listing. Candidates need relevant experience and clear written and verbal communication.",
+  "ai_working_hours": 40,
+  "ai_employment_type": [
+   "INTERN"
+  ],
+  "ai_job_language": "English",
+  "ai_visa_sponsorship": false,
+  "ai_keywords": [
+   "Investment Analytics",
+   "Data Science",
+   "Asset Management",
+   "Python",
+   "R",
+   "SQL",
+   "PowerBI",
+   "Financial Modeling",
+   "Data Engineering",
+   "Business Intelligence",
+   "Performance Attribution",
+   "Risk Management",
+   "Anomaly Detection",
+   "Natural-Language Querying",
+   "Digital Transformation",
+   "Quantitative Analysis",
+   "Data Pipelines",
+   "Investment Processes",
+   "Analytics Platform",
+   "Financial Concepts"
+  ],
+  "ai_taxonomies_a": [
+   "Data & Analytics",
+   "Finance & Accounting",
+   "Technology",
+   "Engineering",
+   "Software"
+  ],
+  "ai_education": [
+   "bachelor degree",
+   "postgraduate degree"
+  ]
+ }
+]

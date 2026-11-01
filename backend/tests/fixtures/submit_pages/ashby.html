@@ -1,0 +1,8 @@
+<!-- Ashby: no ATS id on the button, so rung 1 misses and rung 2 (form subtree scoped to the
+     scraped fields) is what resolves it. The nav "Apply" link is a decoy for the text rung. -->
+<nav><a href="#">Apply</a></nav>
+<form class="ashby-application-form">
+  <input id="name" name="name" data-cs-field="name">
+  <textarea id="why" name="why" data-cs-field="why"></textarea>
+  <button type="submit" class="ashby-button">Submit Application</button>
+</form>

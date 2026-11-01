@@ -1,0 +1,8 @@
+<!-- Lever, DELIBERATELY AMBIGUOUS. Two buttons in the scraped form subtree both look like submits
+     to rung 2. The ladder must refuse rather than pick one: guessing sends the user's name to an
+     employer through the wrong control, or silently fails to send while we record success. -->
+<form class="application-form">
+  <input id="lname" name="lname" data-cs-field="lname">
+  <button type="submit" class="postings-btn">Submit application</button>
+  <button type="submit" class="postings-btn secondary">Submit and create profile</button>
+</form>

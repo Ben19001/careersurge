@@ -1,0 +1,33 @@
+# Runtime dependencies of the local app (app/local_main.py and what it imports), plus what the tests need.
+#
+# Every line is a package that app/ or tests/ imports, or that one of those needs at runtime without
+# importing it by name (python-multipart). Versions are lower bounds, not a lockfile. A bound that is
+# load-bearing says why; the rest are unpinned on purpose rather than pinned to a guess.
+#
+# Nothing here is AGPL. The resume parser is pdfplumber (MIT); PyMuPDF (AGPL-3.0) went with the hosted
+# code.
+
+# --- Local store ---
+platformdirs                  # OS-specific user data dir for the SQLite file and secrets.json
+keyring                       # OS keychain (Keychain, Credential Manager, Secret Service) for API keys
+filelock                      # cross-platform single-instance lock on app.lock
+
+# --- Local API and window ---
+fastapi                       # the token-guarded routes (app/local_api.py); its TestClient needs httpx below
+uvicorn                       # serves the app on 127.0.0.1 (app/local_main.py)
+pywebview                     # the desktop window (app/local_main.py); imported only when a window opens
+python-multipart              # FastAPI parses multipart uploads (resume, file answers) with it
+pydantic>=2.0                 # FastAPI request bodies (app/local_api.py), v2 style
+
+# --- HTTP ---
+httpx>=0.26                   # the Jev client (app/services/jev.py) and FastAPI's TestClient
+
+# --- Sourcing and apply ---
+impit>=0.14.1,<0.15          # direct dep of services/local_sourcing.py; apify-client uses it. The TLS check
+                              # matches rustls's "InvalidCertificate" text in impit's ConnectError - re-verify on upgrade.
+apify-client>=3.2             # the only listing source; APIFY_TOKEN absent = no sourcing.
+                              # >=3.2: call(run_timeout=, max_total_charge_usd=) kwargs, Run dataclass
+playwright                    # the apply worker's browser; also needs `playwright install chromium`
+
+# --- Resume parsing ---
+pdfplumber                    # local resume parse, MIT
